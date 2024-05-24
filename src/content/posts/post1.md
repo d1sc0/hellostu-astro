@@ -1,8 +1,8 @@
 ---
 title: 'My First Blog Post'
-draft: true
+draft: false
 slug: my-first
-pubDate: 2022-07-01
+pubDate: 2024-01-01
 description: 'This is the first post of my new Astro blog.'
 image:
   url: 'https://docs.astro.build/assets/full-logo-light.png'

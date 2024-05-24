@@ -6,6 +6,7 @@ export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => {
     return import.meta.env.PROD ? data.draft !== true : true;
   });
+  posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
   return posts.map(entry => ({
     params: { slug: entry.slug },
     props: { entry },
