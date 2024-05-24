@@ -2,10 +2,9 @@
 
 ## To-do
 
-- Blog collection
-- Podcast Collection
+- Blog collection - done
+- Add in MDX support - (to test)
 - Pagination for collections (and tags)
-- Add in MDX support
 - SEO
 - imageTools
 - Layout and Global Styling
