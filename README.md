@@ -5,11 +5,16 @@
 - Blog collection - done
 - Pagination for blog collections - done
 - adding drafts - done
-- SEO
-- imageTools (test Mdx again)
-- Add in MDX support - done (needs further testing errors on build)
+- SEO - done basic config
+- imageTools (test Mdx again) - done
+- Add in MDX support - done (needs further testing errors on build) - done
+
+- Content migration (for MD)
 - Layout and Global Styling
-- Content migration
 - Content Styling & improve hamburger
-- Github Action
+- image resizing
 - Comments via Hyvor talk
+- bugger around with MDX posts and react components I'll be missing
+- Github Action
+
+- image resizing
