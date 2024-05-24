@@ -5,6 +5,7 @@ const posts = await getCollection('posts', ({ data }) => {
   return import.meta.env.PROD ? data.draft !== true : true;
 });
 const tags = [...new Set(posts.map(post => post.data.tags).flat())];
+
 const pageTitle = 'Tag Index';
 ---
 
