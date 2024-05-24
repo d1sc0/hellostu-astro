@@ -3,8 +3,9 @@
 ## To-do
 
 - Blog collection - done
-- Add in MDX support - (to test)
+- Add in MDX support - done
 - Pagination for collections (and tags)
+- adding drafts
 - SEO
 - imageTools
 - Layout and Global Styling
