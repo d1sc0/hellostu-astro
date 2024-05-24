@@ -2,9 +2,9 @@
 title: My Second Blog Post
 slug: my-second
 description: "After learning some Astro, I couldn't stop!"
-image:
-  url: 'https://docs.astro.build/assets/arc.webp'
-  alt: 'Thumbnail of Astro arcs.'
+postImage:
+  src: '/post_images/robot-unsplash.jpg'
+  alt: 'Toy robot.'
 pubDate: 2024-02-01
 tags: ['astro', 'blogging', 'learning in public', 'successes']
 ---

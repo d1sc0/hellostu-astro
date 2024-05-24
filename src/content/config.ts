@@ -8,8 +8,8 @@ const postsCollection = defineCollection({
       title: z.string(),
       pubDate: z.date(),
       description: z.string(),
-      image: z.object({
-        url: z.string(),
+      postImage: z.object({
+        src: z.string(),
         alt: z.string()
       }),
       tags: z.array(z.string()),

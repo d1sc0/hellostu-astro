@@ -1,8 +1,14 @@
 ---
+import { SEO } from 'astro-seo';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
+const { frontmatter } = Astro.props;
 const { pageTitle } = Astro.props;
+const siteInfo = {
+  description: 'This is the default description',
+  imageUrl: '/site_images/image.jpg',
+};
 ---
 
 <html lang="en">
@@ -11,11 +17,25 @@ const { pageTitle } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>{pageTitle}</title>
+    <SEO
+      title={pageTitle != undefined ? pageTitle : frontmatter.title}
+      description={frontmatter !== undefined
+        ? frontmatter.description
+        : siteInfo.description}
+      openGraph={{
+        basic: {
+          title: pageTitle != undefined ? pageTitle : frontmatter.title,
+          type: frontmatter !== undefined ? 'article' : 'website',
+          image:
+            frontmatter !== undefined
+              ? frontmatter.postImage.src
+              : siteInfo.imageUrl,
+        },
+      }}
+    />
   </head>
   <body>
     <Header />
-    <h1>{pageTitle}</h1>
     <slot />
     <Footer />
     <script>

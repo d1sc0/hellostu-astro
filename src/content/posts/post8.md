@@ -2,9 +2,9 @@
 title: My Eigth Blog Post
 slug: my-8th
 description: 'This post will show up on its own!'
-image:
-  url: 'https://docs.astro.build/default-og-image.png'
-  alt: 'The word astro against an illustration of planets and stars.'
+postImage:
+  src: '/post_images/robot-unsplash.jpg'
+  alt: 'Toy robot.'
 pubDate: 2024-04-08
 tags: ['astro', 'successes']
 ---

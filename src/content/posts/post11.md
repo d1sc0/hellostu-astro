@@ -2,9 +2,9 @@
 title: My Eleventh Blog Post
 slug: my-eleventh
 description: 'This post will show up on its own!'
-image:
-  url: 'https://docs.astro.build/default-og-image.png'
-  alt: 'The word astro against an illustration of planets and stars.'
+postImage:
+  src: '/post_images/robot-unsplash.jpg'
+  alt: 'Toy robot.'
 pubDate: 2024-04-11
 tags: ['astro', 'successes']
 ---

@@ -3,11 +3,11 @@
 ## To-do
 
 - Blog collection - done
-- Add in MDX support - done
-- Pagination for collections (and tags)
-- adding drafts
+- Pagination for blog collections - done
+- adding drafts - done
 - SEO
-- imageTools
+- imageTools (test Mdx again)
+- Add in MDX support - done (needs further testing errors on build)
 - Layout and Global Styling
 - Content migration
 - Content Styling & improve hamburger

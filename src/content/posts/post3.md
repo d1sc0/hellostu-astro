@@ -2,9 +2,9 @@
 title: My Third Blog Post
 slug: my-third
 description: 'I had some challenges, but asking in the community really helped!'
-image:
-  url: 'https://docs.astro.build/assets/rays.webp'
-  alt: 'Thumbnail of Astro rays.'
+postImage:
+  src: '/post_images/robot-unsplash.jpg'
+  alt: 'Toy robot.'
 pubDate: 2024-03-01
 tags: ['astro', 'learning in public', 'setbacks', 'community']
 ---
