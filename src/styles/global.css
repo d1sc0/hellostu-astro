@@ -1,0 +1,104 @@
+/*  all the em measurements start from this setting
+--------------------------------------------------------------------------------------- */
+html {
+  font-size: 18px;
+}
+
+/*  global styles to reset default values
+--------------------------------------------------------------------------------------- */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body,
+div,
+ul,
+li,
+img,
+video,
+section,
+figure,
+figcaption,
+main,
+footer,
+h1,
+h2,
+h3,
+p,
+a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/*
+colors
+--yellow: #fafa00ff;
+--rusty-red: #d33643ff;
+--pale-azure: #70d6ffff;
+--black: #000000ff;
+--white: #ffffffff;
+*/
+
+
+body {
+  position: relative;
+  font-display: swap;
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+    background-image: linear-gradient(#b1e9ff 1px, transparent 1px),
+      linear-gradient(to right, #b1e9ff 1px, #ffffff 1px);
+    background-size: 20px 20px;
+}
+
+/* general page layout styles
+--------------------------------------------------------------------------------------- */
+.container {
+  padding: .5rem
+}
+
+main, header, footer {
+  max-width: 72rem;
+  margin: 0 auto;
+  background-color: #ffffff; 
+  border: 1px solid;
+  border-radius: .3rem;
+  padding: 10px;
+  box-shadow: 5px 8px;
+}
+
+header{
+  margin-top: 
+  .5rem; 
+  margin-bottom: 1rem;
+}
+
+footer {
+  min-height: 110px;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+}
+main {min-height: 650px; padding:2rem;}
+main img {width: 100%; height: auto;}
+
+
+/*  default paragraph styling
+--------------------------------------------------------------------------------------- */
+p {
+  margin: 0 0 1rem 0;
+  line-height: 1.375em;
+}
+
+/*  link styling
+--------------------------------------------------------------------------------------- */
+a {
+  color: #d33643ff;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #70d6ffff;
+  text-decoration: underline;
+}

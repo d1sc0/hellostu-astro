@@ -1,0 +1,29 @@
+---
+const { pageData } = Astro.props;
+---
+
+<nav aria-label="Pagination">
+  {
+    pageData.url.prev && (
+      <a
+        href={pageData.url.prev}
+        aria-label={`Go to page ${pageData.currentPage - 1} of ${pageData.lastPage}`}
+      >
+        prev
+      </a>
+    )
+  }
+  <span aria-current="page"
+    >Page {pageData.currentPage} of {pageData.lastPage}</span
+  >
+  {
+    pageData.url.next && (
+      <a
+        href={pageData.url.next}
+        aria-label={`Go to page ${pageData.currentPage + 1} of ${pageData.lastPage}`}
+      >
+        Next
+      </a>
+    )
+  }
+</nav>
