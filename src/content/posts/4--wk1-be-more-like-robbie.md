@@ -5,8 +5,8 @@ slug: wk1-be-more-like-robbie
 pubDate: 2019-03-15
 description: 'the first of some very occassional weeknotes'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/4-kermit-robbie.jpg'
+  alt: 'kermit the frog at the typewriter'
 tags: ['weeknotes']
 ---
 

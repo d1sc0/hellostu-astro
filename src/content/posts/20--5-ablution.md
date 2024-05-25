@@ -5,8 +5,8 @@ slug: 5-ablution
 pubDate: 2023-02-18
 description: 'The fifth in a weekly series of photographic self-portraits of Stuart Mackenzie.'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/20-ablution.jpg'
+  alt: 'a mirror image of me in the shower'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist']
 ---
 

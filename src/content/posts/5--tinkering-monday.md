@@ -5,7 +5,7 @@ slug: tinkering-monday
 pubDate: 2019-03-25
 description: 'A post about my some website experiments - from ghost blogging throught to static site generators and all the things in between'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
+  src: '/post_images/5-tinkering.jpg'
   alt: 'toy robot'
 tags: ['tech', 'experiment', 'website']
 ---

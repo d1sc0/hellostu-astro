@@ -5,10 +5,10 @@ slug: 14-head-above-water
 pubDate: 2023-05-24
 description: 'The fourteenth in a weekly series of photographic self-portaits accopained by a journal entry and revealing a new side-project!'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/29-head-above-water.jpg'
+  alt: 'a photo of me in the sea with a wave in front of my face'
 tags:
-    [
+  [
     '52weeks',
     'photography',
     'iphone',

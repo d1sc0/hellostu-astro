@@ -5,8 +5,8 @@ slug: wk6-range
 pubDate: 2020-02-21
 description: 'reflections from a busy challenging week and some thoughts on multi-hythenates'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/12-range.jpg'
+  alt: 'a wig lying on the pavement'
 tags: ['weeknotes', 'rarenotes']
 ---
 

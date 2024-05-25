@@ -3,8 +3,8 @@ title: 2 | Running around
 slug: 2-running-around
 description: 'The second in a weekly series of photographic self-portraits of Stuart Mackenzie.'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'Toy robot.'
+  src: '/post_images/17-running-around.jpg'
+  alt: 'stu stands in the street after a run'
 pubDate: 2023-01-29
 tags: ['52weeks', 'photography', 'creativity', 'self', 'running']
 ---

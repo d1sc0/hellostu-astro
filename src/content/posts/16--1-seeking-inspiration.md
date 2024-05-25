@@ -5,8 +5,8 @@ slug: 1-seeking-inspiration-and-comfort
 pubDate: 2023-01-19
 description: 'The first in a weekly series of photographic self-portraits.'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: "man sits alone in a chair with his phone, he's in his home office surrounded by desk, laptop & guitars"
+  src: '/post_images/16-seeking-inspiration.jpg'
+  alt: 'stu sits in his office in front of a wall with guitars'
 tags: ['52weeks', 'photography', 'creativity', 'self']
 ---
 

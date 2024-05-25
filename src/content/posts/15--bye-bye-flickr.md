@@ -5,8 +5,8 @@ slug: bye-bye-flickr
 pubDate: 2022-05-15
 description: 'Deleting my flickr account causes some reflections and thoughts of how to share my creations'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/15-bye-bye-flickr.jpg'
+  alt: 'black and white macro photograph of an olympus trip 35m camera'
 tags: ['photography', 'flickr', 'tech', 'reflections', 'photos']
 ---
 

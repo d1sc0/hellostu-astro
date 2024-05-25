@@ -5,8 +5,8 @@ slug: lets-keep-talking-about-this
 pubDate: 2019-10-15
 description: 'a short but important post about baby loss awareness week'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/10-blaw.jpg'
+  alt: 'two tattered teddies sitting by the side of a grave'
 tags: ['BLAW', 'babyloss', 'reflection', 'breakthesilence']
 ---
 

@@ -5,8 +5,8 @@ slug: wk2-how-high
 pubDate: 2019-03-29
 description: 'pushing myself - relfections from the high ropes'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/6-high-fives.jpg'
+  alt: 'high fives high up in a tree'
 tags: ['weeknotes']
 ---
 

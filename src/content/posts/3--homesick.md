@@ -5,8 +5,8 @@ slug: homesick
 pubDate: 2018-11-25
 description: 'A reflection about working away from home'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/3-homesick.jpg'
+  alt: 'one man sitting on a rock in the ocean'
 tags: ['life', 'homesick', 'reflection']
 ---
 

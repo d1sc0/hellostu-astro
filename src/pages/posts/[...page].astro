@@ -2,7 +2,8 @@
 import type { Page } from 'astro';
 import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import PostPreview from '../../components/PostPreview.astro';
+import PostGrid from '../../components/PostGrid.astro';
+import Pagination from '../../components/Pagination.astro';
 
 export async function getStaticPaths({ paginate }) {
   const posts = await getCollection('posts', ({ data }) => {
@@ -16,42 +17,10 @@ export async function getStaticPaths({ paginate }) {
 type Props = { page: Page<CollectionEntry<'posts'>> };
 const { page } = Astro.props;
 const posts = page.data;
-const pageTitle = 'Blog';
+const pageTitle = 'All posts';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h1>Blog Posts</h1>
-  <div>
-    {
-      posts.map(post => (
-        <>
-          <PostPreview url={'/posts/' + post.slug} data={post.data} />
-        </>
-      ))
-    }
-  </div>
-
-  <nav aria-label="Pagination">
-    {
-      page.url.prev && (
-        <a
-          href={page.url.prev}
-          aria-label={`Go to page ${page.currentPage - 1} of ${page.lastPage}`}
-        >
-          prev
-        </a>
-      )
-    }
-    <span aria-current="page">Page {page.currentPage} of {page.lastPage}</span>
-    {
-      page.url.next && (
-        <a
-          href={page.url.next}
-          aria-label={`Go to page ${page.currentPage + 1} of ${page.lastPage}`}
-        >
-          Next
-        </a>
-      )
-    }
-  </nav>
+  <PostGrid posts={posts} gridTitle={pageTitle} />
+  <Pagination pageData={page} />
 </BaseLayout>

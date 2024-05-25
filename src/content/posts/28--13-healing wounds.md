@@ -5,8 +5,8 @@ slug: 13-healing-wounds
 pubDate: 2023-05-15
 description: 'The thirteenth in a weekly series of photographic self-portraits of Stuart Mackenzie. In this weeks photo I show off my new tattoos, which are at the start of a healing process'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/28-healing-wounds.jpg'
+  alt: 'closeup photograph of my arms and new astronaut tattoo'
 tags:
   [
     '52weeks',

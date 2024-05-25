@@ -5,8 +5,8 @@ slug: 4-stepping-into-the-light
 pubDate: 2023-02-12
 description: 'The fourth in a weekly series of photographic self-portraits of Stuart Mackenzie.'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/19-step-into-the-light.jpg'
+  alt: 'a mono picture of me sitting on the stairs'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist']
 ---
 

@@ -5,8 +5,8 @@ slug: 3-skip-intro
 pubDate: 2023-02-05
 description: 'The third in a weekly series of photographic self-portraits of Stuart Mackenzie.'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/18-skip-intro.jpg'
+  alt: 'a closeup picture of my face'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'closeup']
 ---
 

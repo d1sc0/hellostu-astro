@@ -5,8 +5,8 @@ slug: 16-fever-dream
 pubDate: 2023-07-14
 description: 'The Sixteenth in a weekly series of photographic self-portaits accopained by a journal entry contianing thoughts about organisation strucutre and ways of working'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/31-fever-dream.jpg'
+  alt: 'me with the flu and wrapped in tissues'
 tags:
   [
     '52weeks',

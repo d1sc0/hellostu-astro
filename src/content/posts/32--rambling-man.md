@@ -5,11 +5,10 @@ slug: rambling-man
 pubDate: 2023-10-01
 description: 'A quick introduction to the hello stu audio notes'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/32-rambling-man.jpg'
+  alt: 'a picture of the jurassic coast'
 tags: ['podcast', 'audio', 'voice', 'note', 'reflections', 'ultra-challenge']
 ---
-
 
 <iframe src="https://embed.acast.com/$/660872d53207c3001751e852/rambling-man?accentColor=F0F2F5&bgColor=e40404&secondaryColor=F0F2F5" frameBorder="0" width="100%" height="110px" className="audioplayer"></iframe>
 

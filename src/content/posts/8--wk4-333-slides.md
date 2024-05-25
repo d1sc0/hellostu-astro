@@ -5,8 +5,8 @@ slug: wk4-333-slides
 pubDate: 2019-04-12
 description: 'this week stickers and data protection'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/8-333.jpg'
+  alt: '3 lego stormtrooper minifigs sitting and having a cuppa'
 tags: ['weeknotes']
 ---
 

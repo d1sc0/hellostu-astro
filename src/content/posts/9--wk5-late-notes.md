@@ -5,8 +5,8 @@ slug: wk5-late-notes
 pubDate: 2019-05-01
 description: 'this week - 3 highlights, some parenting and a birthday'
 postImage:
-  src: '/post_images/robot-unsplash.jpg'
-  alt: 'toy robot'
+  src: '/post_images/9-pocket-watch.jpg'
+  alt: 'an old antique pocket watch held in the hand'
 tags: ['weeknotes']
 ---
 
