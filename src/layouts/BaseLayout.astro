@@ -34,9 +34,11 @@ const siteInfo = {
       }}
     />
   </head>
-  <body>
+  <body class="max-w-[64rem] flex flex-col mx-auto size-full">
     <Header />
-    <slot />
+    <main>
+      <slot />
+    </main>
     <Footer />
     <script>
       import '../scripts/menu.js';
