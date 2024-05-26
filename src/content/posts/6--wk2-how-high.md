@@ -18,7 +18,7 @@ I won't go into all the details of the day but it was a great experience and a f
 
 I've been reflecting on the factors that got me both beyond my comfort zone and to a position where I could value the new perspective that this gave me (in a literal sense when your [30ft above the ground](https://www.instagram.com/p/BvZG9bIASM7/)). I appreciate it's a bit of a cliché to draw parallels between this and practicing as a consultant but it was a really well facilitated experience over a period of just a few hours which makes it super easy to identify the things that were put in place that helped achieve this positive outcome.
 
-<img src="/post_images/high-fives.jpg" alt="team mackenzie on the high ropes" class="imageLeft"/>
+<img src="/src/content/post_images/high-fives.jpg" alt="team mackenzie on the high ropes" class="imageLeft"/>
 
 Here's what I noted...
 
@@ -43,7 +43,7 @@ I like to think there is plenty above I already bring into my work practice but 
 
 **New projects and teams...** I've been in a couple of planning sessions this week for new projects. The projects are super interesting and I'm looking forward to working with some new team members. One project in particular will see me contributing to some strategy work (which is well timed based on my learning from last week). **I'm very excited!**
 
-<img src="/post_images/queer-eye.gif" alt="yass queen - the queer eye crew scream" class="imageRight" />
+<img src="/src/content/post_images/queer-eye.gif" alt="yass queen - the queer eye crew scream" class="imageRight" />
 
 **Being social...** The week also included a nice breakfast catch-up with an old FG friend, a pint or 3 with [Jan](https://twitter.com/Jottblum) on Wednesday night and some team food and drinks to mark an important milestone on a critical project on Thursday. Probably a more boozy week than it should be? Yes. #notsorry
 

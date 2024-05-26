@@ -10,7 +10,7 @@ postImage:
 tags: ['52weeks', 'photography', 'creativity', 'self']
 ---
 
-<img src="/post_images/52weeks/52_2023_1.jpg" alt="man sits alone in a chair with his phone, he's in his home office surrounded by desk, laptop & guitars" class="imageFull"/>
+<img src="/src/content/post_images/52weeks/52_2023_1.jpg" alt="man sits alone in a chair with his phone, he's in his home office surrounded by desk, laptop & guitars" class="imageFull"/>
 
 I’m committing to capture and publish a self-portrait with a short accompanying post here on my blog each week. Some weeks I might aim for an abstract creative masterpiece - adorned with filters, photoshop magic and flying unicorns. Sometimes it might just be a photo of my feet snapped on my iphone. Most weeks will fall somewhere in between (just like this first specimen). The only real rule is some part of me has to be in the frame.
 

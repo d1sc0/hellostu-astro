@@ -16,7 +16,7 @@ Recently I had the pleasure of attending my first [LocalGovCamp and Fringe!](htt
 
 Having worked in local government before joining FutureGov, I’d heard of the event but never attended. So, as you can imagine, I was excited to finally have the chance to witness first hand what all the fuss was about. It was worth the wait.
 
-<img src="/post_images/localgovcamp.jpg" alt="LocalGovCamp promo pic" class="imageLeft"/>
+<img src="/src/content/post_images/localgovcamp.jpg" alt="LocalGovCamp promo pic" class="imageLeft"/>
 
 ## Friday Fringe
 
