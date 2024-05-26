@@ -5,19 +5,27 @@ const posts = await getCollection('posts', ({ data }) => {
   return import.meta.env.PROD ? data.draft !== true : true;
 });
 const tags = [...new Set(posts.map(post => post.data.tags).flat())];
-
+const tagCounts = tags.map(tag => {
+  const filteredPosts = posts.filter(post => post.data.tags.includes(tag));
+  const tagCount = filteredPosts.length;
+  return [tagCount, tag];
+});
 const pageTitle = 'Tag Index';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h1>Tag Index</h1>
-  <div class="tags">
-    {
-      tags.map(tag => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
-      ))
-    }
-  </div>
+  <section class="tag-index">
+    <h2 class="content-padding">Tag Index</h2>
+    <div class="tags content-padding">
+      {
+        tagCounts.map(tag => (
+          <p class="tag">
+            <a href={`/tags/${tag[1]}`}>
+              {tag[1]} &lpar;{tag[0]}&rpar;
+            </a>
+          </p>
+        ))
+      }
+    </div>
+  </section>
 </BaseLayout>

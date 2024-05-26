@@ -7,7 +7,17 @@ description: 'A random update recorded whilst hiking around Maiden Castle. I bri
 postImage:
   src: '/post_images/33-zen-friday.jpg'
   alt: 'a photo of concentric circles of gravel from a zen garden'
-tags: ['podcast', 'audio', 'update', 'life', 'work', 'friends', 'fitness']
+tags:
+  [
+    'podcast',
+    'audio',
+    'update',
+    'life',
+    'work',
+    'friends',
+    'fitness',
+    'audio-note',
+  ]
 ---
 
 <iframe src="https://embed.acast.com/660872d53207c3001751e852/zen-friday?accentColor=F0F2F5&bgColor=e40404&secondaryColor=F0F2F5" frameBorder="0" width="100%" height="110px" className="audioplayer"></iframe>

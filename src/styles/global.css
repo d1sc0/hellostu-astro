@@ -65,7 +65,6 @@ main, header, footer {
   background-color: #ffffff; 
   border: 1px solid;
   border-radius: .3rem;
-  padding: 10px;
   box-shadow: 5px 8px;
 }
 
@@ -80,8 +79,20 @@ footer {
   margin-top: 1rem;
   margin-bottom: .5rem;
 }
-main {padding:2rem;}
+.content-padding {padding-left:2rem; padding-right: 2rem;}
+
 main img {width: 100%; height: auto;}
+section {margin-top: 2rem;}
+
+h2{margin-bottom: .5rem}
+
+section.latest {
+  background-color: #fafa00ff;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+section.home {margin-bottom: 5rem; margin-top: 3rem;}
 
 
 /*  default paragraph styling

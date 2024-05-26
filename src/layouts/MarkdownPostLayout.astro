@@ -4,17 +4,19 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout frontmatter={frontmatter}>
-  <h1>{frontmatter.title}</h1>
-  <p>{frontmatter.pubDate.toString().slice(0, 10)}</p>
-  <p><em>{frontmatter.description}</em></p>
-  <div class="tags">
-    {
-      frontmatter.tags.map(tag => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
-      ))
-    }
+  <div class="post content-padding">
+    <h1>{frontmatter.title}</h1>
+    <p>{frontmatter.pubDate.toString().slice(0, 10)}</p>
+    <p><em>{frontmatter.description}</em></p>
+    <div class="tags">
+      {
+        frontmatter.tags.map(tag => (
+          <p class="tag">
+            <a href={`/tags/${tag}`}>{tag}</a>
+          </p>
+        ))
+      }
+    </div>
+    <slot />
   </div>
-  <slot />
 </BaseLayout>

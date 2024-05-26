@@ -1,18 +1,42 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LatestPosts from '../components/LatestPosts.astro';
-const pageTitle = 'Home';
+const pageTitle = 'Hello Stu';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h1>{pageTitle}</h1>
-  <h2>My awesome blog subtitle</h2>
-  <p>
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-    cupiditate quia facere ipsa tenetur magni. Temporibus repudiandae voluptates
-    ullam et voluptas asperiores nihil laborum culpa commodi maxime. Ad,
-    similique eveniet!
-  </p>
-
+  <section class="home">
+    <div class="content-padding">
+      <div class="welcome-grid">
+        <div class="profile-pic">
+          <figure>
+            <img
+              src="/post_images/jcc-selfie.jpg"
+              alt="Stuart Mackenzie profile picture"
+            />
+            <figcaption>Stuart Mackenzie</figcaption>
+          </figure>
+        </div>
+        <div class="welcome-text">
+          <p>
+            Hello, I'm <a href="#">Stuart Mackenzie</a>. I spend most of my days
+            working hard to improve and transform public services as a Senior
+            Partner at <a href="#">TPXimpact</a>. Outside of work I'm known for
+            being a photography nerd, occassional podcaster, amatuer web
+            developer, keen runner, regular parkrun volunteer and excotic disco
+            dancer!
+          </p>
+          <p>
+            <strong>
+              This personal website functions as a space to share my thoughts
+              and ideas, work on experiments and make it easier for people to
+              find me across other bits of the internet. You can find out more
+              about me <a href="/about">here</a>.</strong
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
   <LatestPosts />
 </BaseLayout>

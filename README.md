@@ -8,8 +8,7 @@
 - SEO - done basic config
 - imageTools (test Mdx again) - done
 - Add in MDX support - done (needs further testing errors on build) - done
-
-- Content migration (for MD)
+- Content migration (for MD) - done
 - Layout and Global Styling
 - Content Styling & improve hamburger
 - image resizing
