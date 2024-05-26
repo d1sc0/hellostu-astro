@@ -15,17 +15,17 @@ const formattedPublishDate = new Date(frontmatter.pubDate).toLocaleDateString(
 
 <BaseLayout frontmatter={frontmatter}>
   <section class="post content-padding">
-    <h2>{frontmatter.title}</h2>
+    <h2 class="title">{frontmatter.title}</h2>
     <p>{formattedPublishDate}</p>
+    <slot />
     <div class="tags">
       {
         frontmatter.tags.map(tag => (
-          <p class="tag">
+          <span class="tag">
             <a href={`/tags/${tag}`}>{tag}</a>
-          </p>
+          </span>
         ))
       }
     </div>
-    <slot />
   </section>
 </BaseLayout>

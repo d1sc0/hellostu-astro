@@ -53,7 +53,6 @@ body {
     background-size: 20px 20px;
 }
 
-strong {font-weight: 900;}
 
 /* general page layout styles
 --------------------------------------------------------------------------------------- */
@@ -81,12 +80,7 @@ footer {
   margin-top: 1rem;
   margin-bottom: .5rem;
 }
-.content-padding {padding-left:2rem; padding-right: 2rem;}
 
-
-section {margin-top: 2rem;}
-
-h2{margin-bottom: .5rem}
 
 section.latest {
   background-color: #fafa00ff;
@@ -106,6 +100,26 @@ section.tag-post-list article img {display: none;}
 
 section.tag-post-list article:nth-child(odd) {background-color: #70d6ffff;
   margin-bottom: 2rem;
+}
+
+section.post {margin-bottom: 6rem;}
+section.post h2.title {font-size: 2.2rem;}
+
+strong {
+  font-weight: 900;
+}
+
+section {
+  margin-top: 2rem;
+}
+
+h2 {
+  margin-bottom: .5rem
+}
+
+.content-padding {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 
@@ -147,9 +161,28 @@ section.tag-post-list article:nth-child(odd) {background-color: #70d6ffff;
 /*  default paragraph styling
 --------------------------------------------------------------------------------------- */
 p {
-  margin: 0 0 1rem 0;
+  margin: 0 0 0.8rem 0;
   line-height: 1.375em;
 }
+
+.post p {margin: 1.2rem 0 1.2rem 0;
+  line-height: 1.375em;}
+
+blockquote {
+  background-color: #fafa00ff;
+  margin: 0;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 8px solid black;
+}
+
+ul {
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem
+}
+
+li {margin-bottom: 0.3rem;}
 
 /*  link styling
 --------------------------------------------------------------------------------------- */
@@ -225,9 +258,7 @@ a:hover {
 
 .imageFull {
   width: 100%;
-  margin-bottom: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  margin-bottom: 0rem;
   border-radius: .3rem;
 }
 
@@ -252,15 +283,10 @@ a:hover {
   /*  IMPORTANT: min-width:60em rule will stop the container from resizing  
 --------------------------------------------------------------------------------------- */
 
-.imageFull {
-    border-radius: 10px;
-  }
 
     .imageFull {
       width: 100%;
-      margin-bottom: 1rem;
-      padding-left: 1rem;
-      padding-right: 1rem;
+      margin-bottom: 0rem;
       border-radius: .3rem;
     }
   

@@ -10,7 +10,7 @@ postImage:
 tags: ['data', 'tech', 'experiments', 'climate']
 ---
 
-![some coloutful spray cans](../images/spraycans.jpg)
+![some coloutful spray cans](/post_images/spraycans.jpg)
 <img src="" alt="" class=""/>
 
 It feels like I change blogging platforms more often than I actually write blog posts...but

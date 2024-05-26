@@ -19,5 +19,5 @@ Buried there are 3 of my daughters. The twins - Morgan & Bethany and Pob. Time h
 Today marks the end of Baby Loss Awareness Week. Baby Loss is common and hard on Mothers, Fathers and supporting family members. It's important we talk about it and support each other and fight to help improve bereavement care.
 Normal cheery Instagram activity of me battling public transport resumes tomorrow. ** #babyloss #blaw2018 #breakthesilence **
 
-![morgan and Bethany](../images/morganbethany.jpg)
+![morgan and Bethany](/post_images/morganbethany.jpg)
 <img src="" alt="" class=""/>

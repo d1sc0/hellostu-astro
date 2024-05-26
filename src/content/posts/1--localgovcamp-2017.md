@@ -10,13 +10,13 @@ postImage:
 tags: ['work', 'localgovcamp']
 ---
 
-> This was originally posted [here on Medium and cross posted to FutureGov's blog page](https://blog.wearefuturegov.com/my-localgovcamp-experience-15412b7ad314) - As I'm no longer using medium I have copied below for the histotic feels!!
+> This was originally posted [here on Medium and cross posted to FutureGov's blog page](https://blog.wearefuturegov.com/my-localgovcamp-experience-15412b7ad314) - As I'm no longer using medium I have copied below for the historic feels!!
 
 Recently I had the pleasure of attending my first [LocalGovCamp and Fringe!](http://localgovdigital.info/localgovcamp/) FutureGov was one of the event sponsors, so a few of us went along to lend a hand and also participate at the unconference on Saturday.
 
 Having worked in local government before joining FutureGov, I’d heard of the event but never attended. So, as you can imagine, I was excited to finally have the chance to witness first hand what all the fuss was about. It was worth the wait.
 
-![LocalGovCamp promo pic](../images/localgovcamp.jpg)
+<img src="/post_images/localgovcamp.jpg" alt="LocalGovCamp promo pic" class="imageLeft"/>
 
 ## Friday Fringe
 

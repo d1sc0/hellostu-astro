@@ -20,7 +20,7 @@ tags:
   ]
 ---
 
-![Stuart puts and tugs on his beard in front of a wall containing two arty geometric prints](../images/52weeks/52_2023_15.jpg)
+![Stuart puts and tugs on his beard in front of a wall containing two arty geometric prints](/post_images/52weeks/52_2023_15.jpg)
 <img src="" alt="" class=""/>
 
 Yet another late post. I did skip a week whilst I was away camping in Devon. I’m glad I did. It was nice to give myself a break from routine on all fronts! This shot was taken using my new camera. I upgraded from an Olympus EM5 mkII to an Olympus EM1 mkIII. It’s a similar system with upgraded bells, whistles, and a much-improved sensor. So far, I’m enjoying the upgrade, and given it’s been on the market for some time, I picked it up for a price that hasn’t made me weep! The two prints flanking me in the frame are also a new addition to the living room wall and inspired the title.

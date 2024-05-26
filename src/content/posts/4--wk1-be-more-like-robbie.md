@@ -10,8 +10,7 @@ postImage:
 tags: ['weeknotes']
 ---
 
-![kermit types fast](../images/kermit.gif)
-<img src="" alt="" class=""/>
+<img src="/post_images/kermit.gif" alt="kermit types fast" class="imageLeft"/>
 
 I’ve tried to write [weeknotes](https://weeknot.es/) on multiple occasions and failed. They always end up in the bin. I find writing hard and I find committing my own opinions and thoughts down is often followed by much self-doubt and anxiety that people will judge me as stupid, incompetent or arrogant. I always enjoy dipping into the weeknotes of others though and get lots from them (far too many people to list). I’ve always believed there is value in reflecting, sharing and being open. Reflection is **not** something I struggle with and it’s odd that in conversation I am prone to often over-sharing and extreme transparency (sorry colleagues!) but in written form I often can’t find my voice.
 
@@ -33,7 +32,7 @@ This weeks assignment had me visualising data to tell a story around some Fire S
 
 ## Things I’m learning
 
-![multi-tasking](../images/data.gif)
+<img src="/post_images/data.gif" alt="multi-tasking" class="imageRight" />
 
 **Health…** Taking baby steps to get back to better health is paying off. It’ll take me longer but is more likely achievable given my split location living. This week I’ve not smoked and I’ve eaten sensible meals at sensible times. More breakfast meetings FTW!! (Thanks [Adam](https://twitter.com/adamwalther) and [Emily](https://twitter.com/emilytulloh))
 
