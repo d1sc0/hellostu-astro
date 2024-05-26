@@ -9,11 +9,20 @@
 - imageTools (test Mdx again) - done
 - Add in MDX support - done (needs further testing errors on build) - done
 - Content migration (for MD) - done
-- Layout and Global Styling
-- Content Styling & improve hamburger
-- image resizing
-- Comments via Hyvor talk
-- bugger around with MDX posts and react components I'll be missing
-- Github Action
+- Added Tag counts - done
+- Layout and Global Styling - done
+- Content Styling & improve hamburger - done
+- image resizing - done
 
-- image resizing
+- add dates to cards
+- tag list component
+- about page content
+- footer links and styling
+- Podcast micro copy page
+- check SEO and social links
+- check RSS feed
+- markdown and image style checks
+- Comments via Hyvor talk
+- Backup old site, Github Action, deploy, test
+- Simple analytics
+- bugger around with MDX posts and react components I'll be missing

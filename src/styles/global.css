@@ -53,6 +53,8 @@ body {
     background-size: 20px 20px;
 }
 
+strong {font-weight: 900;}
+
 /* general page layout styles
 --------------------------------------------------------------------------------------- */
 .container {
@@ -94,6 +96,41 @@ section.latest {
 
 section.home {margin-bottom: 5rem; margin-top: 3rem;}
 
+
+/*  Tag styling
+--------------------------------------------------------------------------------------- */
+
+.taglist {text-wrap: wrap; text-align: center; margin-top: 2rem; margin-bottom: 4rem;}
+
+.tag {
+  font-size: 0.9rem;
+  display: inline-block; 
+  background-color:#d33643ff; 
+  margin-right: 15px; 
+  margin-bottom: 20px; 
+  padding: 3px; 
+  padding-left: 11px; 
+  padding-right: 11px; 
+  border-radius: 8px;
+}
+
+.smalltag {
+  font-size: 0.8rem;
+  display: inline-block;
+  background-color: #d33643ff;
+  margin-right: 8px;
+  margin-bottom: 5px;
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-radius: 6px;
+}
+.tag a, .smalltag a {
+  color: #ffffff;
+}
+.tag a:hover, .smalltag a:hover {
+  color: #fafa00ff;
+}
 
 /*  default paragraph styling
 --------------------------------------------------------------------------------------- */
