@@ -13,8 +13,8 @@
 - Layout and Global Styling - done
 - Content Styling & improve hamburger - done
 - image resizing - done
+- add dates to cards - done
 
-- add dates to cards
 - tag list component
 - about page content
 - footer links and styling
