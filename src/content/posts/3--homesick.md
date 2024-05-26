@@ -5,7 +5,7 @@ slug: homesick
 pubDate: 2018-11-25
 description: 'A reflection about working away from home'
 postImage:
-  src: '/post_images/3-homesick.jpg'
+  src: '/preview_images/3-homesick.jpg'
   alt: 'one man sitting on a rock in the ocean'
 tags: ['life', 'homesick', 'reflection']
 ---
@@ -21,3 +21,4 @@ It makes me wonder if the heartfelt connections to place, people and things that
 x o x
 
 ![Stuart sat on a rock out at sea](../images/one-man-island.jpg)
+<img src="" alt="" class=""/>

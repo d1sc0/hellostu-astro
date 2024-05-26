@@ -5,12 +5,13 @@ slug: wk1-be-more-like-robbie
 pubDate: 2019-03-15
 description: 'the first of some very occassional weeknotes'
 postImage:
-  src: '/post_images/4-kermit-robbie.jpg'
+  src: '/preview_images/4-kermit-robbie.jpg'
   alt: 'kermit the frog at the typewriter'
 tags: ['weeknotes']
 ---
 
 ![kermit types fast](../images/kermit.gif)
+<img src="" alt="" class=""/>
 
 I’ve tried to write [weeknotes](https://weeknot.es/) on multiple occasions and failed. They always end up in the bin. I find writing hard and I find committing my own opinions and thoughts down is often followed by much self-doubt and anxiety that people will judge me as stupid, incompetent or arrogant. I always enjoy dipping into the weeknotes of others though and get lots from them (far too many people to list). I’ve always believed there is value in reflecting, sharing and being open. Reflection is **not** something I struggle with and it’s odd that in conversation I am prone to often over-sharing and extreme transparency (sorry colleagues!) but in written form I often can’t find my voice.
 

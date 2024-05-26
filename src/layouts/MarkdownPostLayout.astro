@@ -1,13 +1,22 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 const { frontmatter } = Astro.props;
+
+const dateOptions: object = {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+};
+const formattedPublishDate = new Date(frontmatter.pubDate).toLocaleDateString(
+  'en-UK',
+  dateOptions
+);
 ---
 
 <BaseLayout frontmatter={frontmatter}>
-  <div class="post content-padding">
-    <h1>{frontmatter.title}</h1>
-    <p>{frontmatter.pubDate.toString().slice(0, 10)}</p>
-    <p><em>{frontmatter.description}</em></p>
+  <section class="post content-padding">
+    <h2>{frontmatter.title}</h2>
+    <p>{formattedPublishDate}</p>
     <div class="tags">
       {
         frontmatter.tags.map(tag => (
@@ -18,5 +27,5 @@ const { frontmatter } = Astro.props;
       }
     </div>
     <slot />
-  </div>
+  </section>
 </BaseLayout>

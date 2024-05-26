@@ -5,12 +5,13 @@ slug: 4-stepping-into-the-light
 pubDate: 2023-02-12
 description: 'The fourth in a weekly series of photographic self-portraits of Stuart Mackenzie.'
 postImage:
-  src: '/post_images/19-step-into-the-light.jpg'
+  src: '/preview_images/19-step-into-the-light.jpg'
   alt: 'a mono picture of me sitting on the stairs'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist']
 ---
 
 ![Sat on the stairs in my house with a strong shadows cast against the wall](../images/52weeks/52_2023_4.jpg)
+<img src="" alt="" class=""/>
 
 A little bit more effort in this week’s photograph. To follow up on my intention of using this project to refresh and improve my photography skills, I purchased some new gear this week to increase my creative options. The two significant purchases that made this shot possible were a cheap flash unit and a remote trigger.
 

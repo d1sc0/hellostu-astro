@@ -5,7 +5,7 @@ slug: 14-head-above-water
 pubDate: 2023-05-24
 description: 'The fourteenth in a weekly series of photographic self-portaits accopained by a journal entry and revealing a new side-project!'
 postImage:
-  src: '/post_images/29-head-above-water.jpg'
+  src: '/preview_images/29-head-above-water.jpg'
   alt: 'a photo of me in the sea with a wave in front of my face'
 tags:
   [
@@ -20,7 +20,7 @@ tags:
   ]
 ---
 
-![The water/sea fills two thirds of the frame, my head appears over a wave in the top left of the frame, backed by blue sky](../images/52weeks/52_2023_14.jpg)
+<img src="/post_images/52weeks/52_2023_14.jpg" alt="The water/sea fills two thirds of the frame, my head appears over a wave in the top left of the frame, backed by blue sky" class="imageFull"/>
 
 This week I’m posting late and from my bed. I had some planned surgery at the hospital yesterday. Everything went well, but I’m feeling a bit groggy today and numb with painkillers. I’ve taken the day to recover but currently can’t sleep, so I’m trying blogging instead!
 

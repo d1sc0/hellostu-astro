@@ -5,7 +5,7 @@ slug: lets-keep-talking-about-this
 pubDate: 2019-10-15
 description: 'a short but important post about baby loss awareness week'
 postImage:
-  src: '/post_images/10-blaw.jpg'
+  src: '/preview_images/10-blaw.jpg'
   alt: 'two tattered teddies sitting by the side of a grave'
 tags: ['BLAW', 'babyloss', 'reflection', 'breakthesilence']
 ---
@@ -20,3 +20,4 @@ Today marks the end of Baby Loss Awareness Week. Baby Loss is common and hard on
 Normal cheery Instagram activity of me battling public transport resumes tomorrow. ** #babyloss #blaw2018 #breakthesilence **
 
 ![morgan and Bethany](../images/morganbethany.jpg)
+<img src="" alt="" class=""/>

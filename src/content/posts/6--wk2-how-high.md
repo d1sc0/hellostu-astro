@@ -5,7 +5,7 @@ slug: wk2-how-high
 pubDate: 2019-03-29
 description: 'pushing myself - relfections from the high ropes'
 postImage:
-  src: '/post_images/6-high-fives.jpg'
+  src: '/preview_images/6-high-fives.jpg'
   alt: 'high fives high up in a tree'
 tags: ['weeknotes']
 ---
@@ -19,6 +19,7 @@ I won't go into all the details of the day but it was a great experience and a f
 I've been reflecting on the factors that got me both beyond my comfort zone and to a position where I could value the new perspective that this gave me (in a literal sense when your [30ft above the ground](https://www.instagram.com/p/BvZG9bIASM7/)). I appreciate it's a bit of a cliché to draw parallels between this and practicing as a consultant but it was a really well facilitated experience over a period of just a few hours which makes it super easy to identify the things that were put in place that helped achieve this positive outcome.
 
 ![team mackenzie on the high ropes](../images/high-fives.jpg)
+<img src="" alt="" class=""/>
 
 Here's what I noted...
 

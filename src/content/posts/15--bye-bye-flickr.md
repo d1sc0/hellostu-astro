@@ -5,7 +5,7 @@ slug: bye-bye-flickr
 pubDate: 2022-05-15
 description: 'Deleting my flickr account causes some reflections and thoughts of how to share my creations'
 postImage:
-  src: '/post_images/15-bye-bye-flickr.jpg'
+  src: '/preview_images/15-bye-bye-flickr.jpg'
   alt: 'black and white macro photograph of an olympus trip 35m camera'
 tags: ['photography', 'flickr', 'tech', 'reflections', 'photos']
 ---
@@ -15,37 +15,51 @@ This weekend I finally found the time to [backup all my flickr images](https://w
 I think I joined flickr in about 2006. Robyn was born in 2002, digital photography wasn't as mature as it is now but it was to a level where it was becoming more common and accessible to document those special family moments with more regularity. The tech was still crap by today's standards, not many phones could take photos and those that could were appalling. Digital compact camera's were also pretty lame. I'd always been interested in photography and I think somewhere around 2005/2006 I invested in a [Fujifilm s7000](https://en.wikipedia.org/wiki/Fujifilm_FinePix_S7000) zoom bridge camera. It offered a lot more control that a compact but it didn't quite come with the flexibility, power or expense of a full SLR setup.
 
 ![first bike ride](../images/bye-bye-flickr/solo-bike.jpg)
+<img src="" alt="" class=""/>
 
 Initially I just joined flickr to store photos online to make them easier to share them with family and friends. A few months later I started following a few other users and gradually became more fixated learning how other people captured great photos. There was (and maybe still is) a totally endless supply of groups on flickr that covered every style, subject, technology, process and project imaginable.
 
 Over the following years I bought and collected all sorts of cameras, lenses, lights and gradually became a proper photo nerd and an _ok_ photographer. I learnt a lot on flickr, met some extremely talented people, made some amazing online friends who became real life friends, completed some pretty bonkers projects, setup a photography business, hosted a photography podcast and even had a picture spotted on the platform and then published in a [book by Martin Parr](https://www.martinparr.com/books/#gallery/8__399884168/443). The time is right for me to leave flickr but I'll always remember it fondly.
 
 ![tshirt suntan](../images/bye-bye-flickr/tshirt-suntan.jpg)
+<img src="" alt="" class=""/>
 
 These days its rare for me to reach for my SLR or put film in one of my 35mm cameras but I still take several photos a day on my smartphone and most weeks I'll also now grab some goPro footage. The only place I really curate and share photos now is [on Instagram](https://www.instagram.com/_d1sco/). I used to love Instagram but it's journey to be a weird combination of facebook & TikTok seem to be picking up pace and that's not appealing to me.
 
 I may have to carve out some space on this site to curate some images I'm fond of or to document projects. I think I might be finally beyond the gratification that comes with notifications of likes & comments and mostly I just fancy a simple place to point people at the things I've made. Whilst I mull all of this over I've added some images pulled from the my old flickr archive below for your suprise and delight dear reader.
 
 ![doodle guitar](../images/bye-bye-flickr/rocknroll-doodle.jpg)
+<img src="" alt="" class=""/>
 
 ![experiments in double exposure](../images/bye-bye-flickr/double-trouble.jpg)
+<img src="" alt="" class=""/>
 
 ![trapped inside](../images/bye-bye-flickr/trapped-inside.jpg)
+<img src="" alt="" class=""/>
 
 ![one man and his gull](../images/bye-bye-flickr/man-and-gull.jpg)
+<img src="" alt="" class=""/>
 
 ![standing on the bench](../images/bye-bye-flickr/standing-on-the-bench.jpg)
+<img src="" alt="" class=""/>
 
 ![3 wise monkeys](../images/bye-bye-flickr/3wisemonkeys.jpg)
+<img src="" alt="" class=""/>
 
 ![more beach friends](../images/bye-bye-flickr/fancy-dress-shootin.jpg)
+<img src="" alt="" class=""/>
 
 ![badly drawn boy](../images/bye-bye-flickr/badly-drawn-boy.jpg)
+<img src="" alt="" class=""/>
 
 ![storm troopers about to get attacked by giant hamster](../images/bye-bye-flickr/troopers.jpg)
+<img src="" alt="" class=""/>
 
 ![robyn modelling](../images/bye-bye-flickr/robyn-monday.jpg)
+<img src="" alt="" class=""/>
 
 ![durdle dor](../images/bye-bye-flickr/durdle.jpg)
+<img src="" alt="" class=""/>
 
 ![olympus trip](../images/bye-bye-flickr/oly-trip.jpg)
+<img src="" alt="" class=""/>

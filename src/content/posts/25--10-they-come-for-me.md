@@ -5,12 +5,13 @@ slug: 10-they-come-for-me
 pubDate: 2023-03-26
 description: 'The tenth in a weekly series of photographic self-portraits of Stuart Mackenzie. This weeks photo I appear to be starring in my own sci-fi b-movie'
 postImage:
-  src: '/post_images/25-theycomeforme.jpg'
+  src: '/preview_images/25-theycomeforme.jpg'
   alt: 'me dazzled by an alien light'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist', 'sci-fi']
 ---
 
 ![A bright red glowing light beam is focussed across my face. I use my hand to block the glare](../images/52weeks/52_2023_10.jpg)
+<img src="" alt="" class=""/>
 
 I am seemingly starring in my own science fiction [b-movie](https://en.wikipedia.org/wiki/B_movie) this week. It’s an idea that emerged while I was playing with a set of [barn doors](https://strobist.blogspot.com/2008/05/barn-doors-and-blue-dragons.html) and some coloured gels on my flash. I’m not sure if the world were to be invaded by body-snatching aliens, I’d be that high up on their priority list?! You can never be sure, though. I’ll head to the shops for a new tinfoil hat tomorrow, just in case.
 

@@ -5,7 +5,7 @@ slug: 16-fever-dream
 pubDate: 2023-07-14
 description: 'The Sixteenth in a weekly series of photographic self-portaits accopained by a journal entry contianing thoughts about organisation strucutre and ways of working'
 postImage:
-  src: '/post_images/31-fever-dream.jpg'
+  src: '/preview_images/31-fever-dream.jpg'
   alt: 'me with the flu and wrapped in tissues'
 tags:
   [
@@ -21,6 +21,7 @@ tags:
 ---
 
 ![Stuart against a dark backdrop, lit using a small amount of light, he is swaddled in clothes made of bogroll channeling a lawrence of arabia look](../images/52weeks/52_2023_16.jpg)
+<img src="" alt="" class=""/>
 
 Last week I was struck by a flu bug that meant I spent pretty much the whole week in bed coughing up a lung or blowing snot out of my nose. It wasn’t pleasant. I’ve been back to work this week but still not totally shaken it.
 

@@ -5,12 +5,13 @@ slug: 8-sasquatch
 pubDate: 2023-03-13
 description: 'The eigth in a weekly series of photographic self-portraits of Stuart Mackenzie. This week I am playing with new lighting setups but the photo does not quite satisfy my artistic needs!'
 postImage:
-  src: '/post_images/23-sasquatch.jpg'
+  src: '/preview_images/23-sasquatch.jpg'
   alt: 'black and white photo of me pouting'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist', 'half_naked']
 ---
 
 ![Half naked Stu appears to comically pout for the camera!](../images/52weeks/52_2023_8.jpg)
+<img src="" alt="" class=""/>
 
 I took this shot on Saturday and nearly didn’t post it. I’m not pleased with it. It was taken while playing with a new lighting setup. I just ordered a second flash unit so I wanted to play with different configurations using two flashes off-camera and using shoot-through umbrellas to soften the light. The lighting is good. During the same shoot I got some fun pictures of Chloe which I [shared here on Instagram](https://www.instagram.com/p/CpqKBQRNfLy/). The same lighting setup doesn’t work quite so nicely here as it doesn’t account for the shadows created by my spectacles.
 

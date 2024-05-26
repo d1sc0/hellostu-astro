@@ -15,7 +15,8 @@
 - image resizing - done
 - add dates to cards - done
 - tag list component - done
-- about page content
+- about page content - done
+
 - footer links and styling
 - Podcast micro copy page
 - check SEO and social links
