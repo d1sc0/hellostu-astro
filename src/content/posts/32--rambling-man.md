@@ -19,7 +19,7 @@ tags:
   ]
 ---
 
-<iframe src="https://embed.acast.com/$/660872d53207c3001751e852/rambling-man?accentColor=F0F2F5&bgColor=e40404&secondaryColor=F0F2F5" frameBorder="0" width="100%" height="110px" className="audioplayer"></iframe>
+<iframe src="https://embed.acast.com/$/660872d53207c3001751e852/rambling-man?accentColor=F0F2F5&bgColor=e40404&secondaryColor=F0F2F5" frameBorder="0" width="100%" height="110px" class="audioplayer"></iframe>
 
 My first foray into posting audio notes to my blog here. I'd previously been posting voice memos to a little project called [Memo From Me](https://memofrom.me), but I've decided that has run its course. This is the next iteration. Hopefully, I'll have it listed on your favourite podcast app soon, and I'll add in some subscription links.
 

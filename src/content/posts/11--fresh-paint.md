@@ -10,8 +10,7 @@ postImage:
 tags: ['data', 'tech', 'experiments', 'climate']
 ---
 
-![some coloutful spray cans](/post_images/spraycans.jpg)
-<img src="" alt="" class=""/>
+<img src="/post_images/spraycans.jpg" alt="some coloutful spray cans" class="imageLeft"/>
 
 It feels like I change blogging platforms more often than I actually write blog posts...but
 rather than just a desire to apply a fresh coat of paint this time my rebuild had

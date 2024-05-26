@@ -10,8 +10,7 @@ postImage:
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist', 'sci-fi']
 ---
 
-![A bright red glowing light beam is focussed across my face. I use my hand to block the glare](/post_images/52weeks/52_2023_10.jpg)
-<img src="" alt="" class=""/>
+<img src="/post_images/52weeks/52_2023_10.jpg" alt="A bright red glowing light beam is focussed across my face. I use my hand to block the glare" class="imageFull"/>
 
 I am seemingly starring in my own science fiction [b-movie](https://en.wikipedia.org/wiki/B_movie) this week. It’s an idea that emerged while I was playing with a set of [barn doors](https://strobist.blogspot.com/2008/05/barn-doors-and-blue-dragons.html) and some coloured gels on my flash. I’m not sure if the world were to be invaded by body-snatching aliens, I’d be that high up on their priority list?! You can never be sure, though. I’ll head to the shops for a new tinfoil hat tomorrow, just in case.
 
