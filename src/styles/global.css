@@ -96,6 +96,13 @@ section.latest {
 
 section.home {margin-bottom: 5rem; margin-top: 3rem;}
 
+section.tag-post-list article {margin-bottom: 2rem; padding-top: 1rem; padding-bottom:1rem; border: 3px dashed #000000; padding-left: 1rem;}
+section.tag-post-list article img {display: none;}
+
+section.tag-post-list article:nth-child(odd) {background-color: #70d6ffff;
+  margin-bottom: 2rem;
+}
+
 
 /*  Tag styling
 --------------------------------------------------------------------------------------- */

@@ -10,12 +10,12 @@ const tagCounts = tags.map(tag => {
   const tagCount = filteredPosts.length;
   return [tagCount, tag];
 });
-const pageTitle = 'Tag Index';
+const pageTitle = 'Hello Stu | Tags';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <section class="tag-index">
-    <h2 class="content-padding">Tag Index</h2>
+    <h2 class="content-padding">Tag Collection</h2>
     <div class="taglist content-padding">
       {
         tagCounts.map(tag => (

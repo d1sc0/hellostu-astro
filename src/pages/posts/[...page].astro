@@ -18,7 +18,7 @@ export async function getStaticPaths({ paginate }) {
 type Props = { page: Page<CollectionEntry<'posts'>> };
 const { page } = Astro.props;
 const posts = page.data;
-const pageTitle = 'All posts';
+const pageTitle = 'Hello Stu | Posts';
 ---
 
 <BaseLayout pageTitle={pageTitle}>

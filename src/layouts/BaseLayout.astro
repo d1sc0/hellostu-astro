@@ -20,7 +20,9 @@ const siteInfo = {
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <SEO
-      title={pageTitle != undefined ? pageTitle : frontmatter.title}
+      title={pageTitle != undefined
+        ? pageTitle
+        : 'Hello Stu | ' + frontmatter.title}
       description={frontmatter !== undefined
         ? frontmatter.description
         : siteInfo.description}

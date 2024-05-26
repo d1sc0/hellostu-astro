@@ -9,11 +9,7 @@ import PostPreview from './PostPreview.astro';
   <div class="grid content-padding">
     {
       posts.map(post => (
-        <PostPreview
-          url={'/posts/' + post.slug}
-          data={post.data}
-          id={post.id}
-        />
+        <PostPreview url={'/posts/' + post.slug} data={post.data} />
       ))
     }
   </div>

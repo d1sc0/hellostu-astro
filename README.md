@@ -14,8 +14,7 @@
 - Content Styling & improve hamburger - done
 - image resizing - done
 - add dates to cards - done
-
-- tag list component
+- tag list component - done
 - about page content
 - footer links and styling
 - Podcast micro copy page

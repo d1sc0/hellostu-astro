@@ -1,12 +1,5 @@
 ---
 const { data, url } = Astro.props;
-import { getCollection } from 'astro:content';
-const allPosts = await getCollection('posts', ({ data }) => {
-  return import.meta.env.PROD ? data.draft !== true : true;
-});
-allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-
-let isLatest = '';
 
 const dateOptions: object = {
   year: 'numeric',
@@ -19,7 +12,7 @@ const formattedPublishDate = new Date(data.pubDate).toLocaleDateString(
 );
 ---
 
-<article class={isLatest}>
+<article>
   <img src={data.postImage.src} alt={data.postImage.alt} />
   <a href={url}><h3>{data.title}</h3></a>
   <p>{formattedPublishDate}</p>
