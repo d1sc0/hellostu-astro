@@ -1,0 +1,38 @@
+section.postgrid, section.latest {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-gap: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+section article {border: 1px solid #000000; padding: 1rem;box-shadow: 5px 8px;border-radius: .3rem;}
+
+section article img {
+  width: 100%;
+  object-fit: cover;
+}
+
+
+/* IMPORTANT: media query - switches on grid layout if page width is wider than 768px
+--------------------------------------------------------------------------------------- */
+
+@media (min-width: 768px) and (orientation: landscape) {
+ /*  IMPORTANT: min-width:60em rule will stop the container from resizing  
+--------------------------------------------------------------------------------------- */
+section.postgrid {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 3rem;
+  }
+
+section.latest {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3rem;
+}
+ 
+}

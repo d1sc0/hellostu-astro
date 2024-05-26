@@ -1,9 +1,20 @@
 ---
-const { data, url } = Astro.props;
+const { data, url, id } = Astro.props;
+import { getCollection } from 'astro:content';
+const allPosts = await getCollection('posts', ({ data }) => {
+  return import.meta.env.PROD ? data.draft !== true : true;
+});
+allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+let isLatest = '';
+
+/* if (allPosts[0].id == id) {
+  isLatest = 'latest';
+} */
 ---
 
-<article>
-  <a href={url}><h4>{data.title}</h4></a>
+<article class={isLatest}>
+  <img src={data.postImage.src} alt={data.postImage.alt} />
+  <a href={url}><h3>{data.title}</h3></a>
   <p>{data.description}</p>
-  <img src={data.postImage.src} width="150px" alt={data.postImage.alt} />
 </article>
