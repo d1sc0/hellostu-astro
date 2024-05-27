@@ -8,6 +8,8 @@ section.postgrid .grid, section.audiogrid .grid, section.latest .grid {
   margin-bottom: 3rem;
 }
 
+section.latest .morelink {text-align: right; margin: 0;}
+
 section.home .welcome-grid 
 {
   display: grid;
