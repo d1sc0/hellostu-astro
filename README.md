@@ -16,13 +16,18 @@
 - add dates to cards - done
 - tag list component - done
 - about page content - done
+- check RSS feed - done
+- check SEO and social links - done
+- markdown and image style checks - done
 
 - footer links and styling
 - Podcast micro copy page
-- check SEO and social links
-- check RSS feed
-- markdown and image style checks
-- Comments via Hyvor talk
+
 - Backup old site, Github Action, deploy, test
+
+- Comments via Hyvor talk
+- Sort out cover images and component
+- investigate online services for images and content (Storyblok)
+- Sitemap
 - Simple analytics
 - bugger around with MDX posts and react components I'll be missing
