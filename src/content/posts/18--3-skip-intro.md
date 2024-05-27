@@ -5,7 +5,7 @@ slug: 3-skip-intro
 pubDate: 2023-02-05
 description: 'The third in a weekly series of photographic self-portraits of Stuart Mackenzie.'
 postImage:
-  src: '/src/content/preview_images/18-skip-intro.jpg'
+  src: '/preview_images/18-skip-intro.jpg'
   alt: 'a closeup picture of my face'
 socialImage: '/social_images/18-skip-intro.jpg'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'closeup']

@@ -5,7 +5,7 @@ slug: 7-revolve
 pubDate: 2023-03-05
 description: 'The seventh in a weekly series of photographic self-portraits of Stuart Mackenzie. This week I cannot decide if I appear to be falling or flying!'
 postImage:
-  src: '/src/content/preview_images/22-revolve.jpg'
+  src: '/preview_images/22-revolve.jpg'
   alt: 'me falling through a revolving background'
 socialImage: '/social_images/22-revolve.jpg'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist', 'dorset']

@@ -5,7 +5,7 @@ slug: 4-stepping-into-the-light
 pubDate: 2023-02-12
 description: 'The fourth in a weekly series of photographic self-portraits of Stuart Mackenzie.'
 postImage:
-  src: '/src/content/preview_images/19-step-into-the-light.jpg'
+  src: '/preview_images/19-step-into-the-light.jpg'
   alt: 'a mono picture of me sitting on the stairs'
 socialImage: '/social_images/19-step-into-the-light.jpg'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist']
