@@ -19,9 +19,8 @@
 - check RSS feed - done
 - check SEO and social links - done
 - markdown and image style checks - done
-
-- footer links and styling
-- Podcast micro copy page
+- footer links and styling - done
+- Podcast micro copy page - done
 
 - Backup old site, Github Action, deploy, test
 

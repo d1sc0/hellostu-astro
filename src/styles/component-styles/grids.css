@@ -40,6 +40,8 @@ section.home .profile-pic figcaption {
   text-align: center;
 }
 
+section.audiogrid .subscription {margin-bottom: 3rem;}
+
 section article {border: 1px solid #000000; padding: 1rem;box-shadow: 5px 8px;border-radius: .3rem; background-color: #ffffff;}
 
 section article img {
