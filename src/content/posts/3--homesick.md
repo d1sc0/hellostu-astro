@@ -10,7 +10,7 @@ postImage:
 tags: ['life', 'homesick', 'reflection']
 ---
 
-<img src="/src/content/post_images/one-man-island.jpg" alt="Stuart sat on a rock out at sea" class="imageFull"/>
+![Stuart sat on a rock out at sea](../post_images/one-man-islandFULL.jpg)
 
 I’m often surprised that after nearly 2 years of splitting my life between Dorset (home) and London (work) that I still suffer from homesickness. I assumed that after a period of adjustment this feeling would just go away.
 

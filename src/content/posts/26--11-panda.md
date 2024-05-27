@@ -10,7 +10,7 @@ postImage:
 tags: ['52weeks', 'photography', 'creativity', 'self', 'mask']
 ---
 
-<img src="/src/content/post_images/52weeks/52_2023_11.jpg" alt="I sit at the table weaking a panda mask, staring at my phone" class="imageFull"/>
+![I sit at the table weaking a panda mask, staring at my phone](../post_images/52weeks/52_2023_11_FULL.jpg)
 
 Sometimes you have to abandon interesting locations, complex lighting and creative composition. Some days you need to put on a panda mask and take a snap at your kitchen table. Yesterday was that day…and I LOVE IT! 😂😍
 

@@ -10,7 +10,7 @@ postImage:
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist', 'mono']
 ---
 
-<img src="/src/content/post_images/52weeks/52_2023_12.jpg" alt="I stare into the camera lens with my hands up in front of my face" class="imageFull"/>
+![I stare into the camera lens with my hands up in front of my face](../post_images/52weeks/52_2023_12_FULL.jpg)
 
 I’m pleased with this photograph. I like the black and white tones, the shadows and the detail captured. I changed some camera settings this weekend, making setting focus and checking the shot’s framing easier. A small win, but making my workflow more efficient reduces the draw on my time. The black background is also a new addition. I’ve had an old set of background stands in the garage for some time, so it’s nice to have some new fabric to hang and use finally.
 

@@ -2,6 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LatestPosts from '../components/LatestPosts.astro';
 const pageTitle = 'Hello Stu | Home';
+import { Image } from 'astro:assets';
+import Selfie from '/src/content/post_images/jcc-selfie.jpg';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
@@ -10,10 +12,7 @@ const pageTitle = 'Hello Stu | Home';
       <div class="welcome-grid">
         <div class="profile-pic">
           <figure>
-            <img
-              src="/src/content/post_images/jcc-selfie.jpg"
-              alt="Stuart Mackenzie profile picture"
-            />
+            <Image src={Selfie} alt="Stuart Mackenzie profile picture" />
             <figcaption>Stuart Mackenzie</figcaption>
           </figure>
         </div>

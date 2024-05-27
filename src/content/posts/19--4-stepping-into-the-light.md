@@ -10,7 +10,7 @@ postImage:
 tags: ['52weeks', 'photography', 'creativity', 'self', 'strobist']
 ---
 
-<img src="/src/content/post_images/52weeks/52_2023_4.jpg" alt="sat on the stairs in my house with a strong shadows cast against the wall" class="imageFull"/>
+![sat on the stairs in my house with a strong shadows cast against the wall](../post_images/52weeks/52_2023_4_FULL.jpg)
 
 A little bit more effort in this week’s photograph. To follow up on my intention of using this project to refresh and improve my photography skills, I purchased some new gear this week to increase my creative options. The two significant purchases that made this shot possible were a cheap flash unit and a remote trigger.
 

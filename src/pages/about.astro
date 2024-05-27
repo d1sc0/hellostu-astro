@@ -1,14 +1,16 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = 'Hello Stu | About Me';
+import { Image } from 'astro:assets';
+import ProfilePic from '/src/content/post_images/stuart-mackenzie.jpg';
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <section class="about content-padding">
     <h2>About Stuart Mackenzie</h2>
     <p>
-      <img
-        src="/src/content/post_images/stuart-mackenzie.jpg"
+      <Image
+        src={ProfilePic}
         alt="Stuart Mackenzie profile picture"
         class="imageRight"
       />

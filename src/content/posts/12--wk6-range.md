@@ -22,7 +22,7 @@ In addition to doing a great job of re-stocking my sticker collection this week 
 
 ### Photo of the week...
 
-<img src="/src/content/post_images/hackney_animal.jpg" alt="only in hackney - a wig animal on the street" class="imageFull"/>
+![only in hackney - a wig animal on the street](../post_images/hackney_animalFULL.jpg)
 
 ### Top tunes...
 

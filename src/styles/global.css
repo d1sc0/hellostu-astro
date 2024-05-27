@@ -256,21 +256,24 @@ a:hover {
   height: 100%;
 }
 
-.imageFull {
+.imageFull, img[src*="FULL"] {
   width: 100%;
+  height: auto;
   margin-bottom: 0rem;
   border-radius: .3rem;
 }
 
-.imageLeft {
+.imageLeft, img[src*="RIGHT"] {
   width: 100%;
+  height: auto;
   margin: 0;
   margin-bottom: 1rem;
   border-radius: .3rem;
 }
 
-.imageRight {
+.imageRight, img[src*="LEFT"] {
   width: 100%;
+  height: auto;
   margin: 0;
   margin-bottom: 1rem;
   border-radius: .3rem;
@@ -284,14 +287,16 @@ a:hover {
 --------------------------------------------------------------------------------------- */
 
 
-    .imageFull {
+    .imageFull, img[src*="FULL"] {
       width: 100%;
+      height: auto;
       margin-bottom: 0rem;
       border-radius: .3rem;
     }
   
-    .imageLeft {
+    .imageLeft, img[src*="LEFT"] {
       width: 50%;
+      height:auto;
       margin-top: 0.2rem;
       margin-bottom: 0.8rem;
       margin-right: 1.5rem;
@@ -299,8 +304,9 @@ a:hover {
       float: left !important;
     }
   
-    .imageRight {
+    .imageRight, img[src*="RIGHT"]{
       width: 50%;
+      height: auto;
       margin-top: 0.2rem;
       margin-bottom: 0.8rem;
       margin-left: 1.5rem;
