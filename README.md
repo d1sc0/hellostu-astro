@@ -22,8 +22,10 @@
 - footer links and styling - done
 - Podcast micro copy page - done
 - Sitemap - done
+- 404 - done
+- Backup old site - done
 
-- Backup old site, Github Action, deploy, test
+- Check Github Action, deploy, test
 
 - Comments via Hyvor talk
 - Sort out cover images and component
