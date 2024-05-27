@@ -21,12 +21,13 @@
 - markdown and image style checks - done
 - footer links and styling - done
 - Podcast micro copy page - done
+- Sitemap - done
 
 - Backup old site, Github Action, deploy, test
 
 - Comments via Hyvor talk
 - Sort out cover images and component
 - investigate online services for images and content (Storyblok)
-- Sitemap
+
 - Simple analytics
 - bugger around with MDX posts and react components I'll be missing
