@@ -12,6 +12,7 @@ const postsCollection = defineCollection({
         src: z.string(),
         alt: z.string()
       }),
+      socialImage: z.string().optional(),
       tags: z.array(z.string()),
       draft: z.boolean().optional()
     })

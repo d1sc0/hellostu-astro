@@ -5,8 +5,9 @@ slug: 11-panda
 pubDate: 2023-04-03
 description: 'The eleventh in a weekly series of photographic self-portraits of Stuart Mackenzie. In this weeks photo I wear a panda mask and stare at my phone'
 postImage:
-  src: '/preview_images/26-panda.jpg'
+  src: '/src/content/preview_images/26-panda.jpg'
   alt: 'me sat at the kitchen table in a panda mask'
+socialImage: '/social_images/26-panda.jpg'
 tags: ['52weeks', 'photography', 'creativity', 'self', 'mask']
 ---
 

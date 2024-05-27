@@ -5,8 +5,9 @@ slug: what-makes-a-great-retrospective
 pubDate: 2017-12-04
 description: 'Some basic advice from me on how to run a great agile retrospective as part of any project'
 postImage:
-  src: '/preview_images/2-avengers-retro.jpg'
+  src: '/src/content/preview_images/2-avengers-retro.jpg'
   alt: 'the avengers assembling'
+socialImage: '/social_images/2-avengers-retro.jpg'
 tags: ['agile', 'delivery', 'teams', 'change']
 ---
 

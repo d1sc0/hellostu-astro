@@ -5,8 +5,9 @@ slug: 15-geometry
 pubDate: 2023-06-07
 description: 'The fifteenth in a weekly series of photographic self-portaits accopained by a journal entry contianing thoughts about organisation strucutre and ways of working'
 postImage:
-  src: '/preview_images/30-geometry.jpg'
+  src: '/src/content/preview_images/30-geometry.jpg'
   alt: 'blacka and white photo in front of two geometric pictures hanging on the wall'
+socialImage: '/social_images/30-geometry.jpg'
 tags:
   [
     '52weeks',

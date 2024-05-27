@@ -5,8 +5,9 @@ slug: zen-friday
 pubDate: 2023-10-20
 description: 'A random update recorded whilst hiking around Maiden Castle. I briefly cover work, friends, fitness and 100 parkruns!'
 postImage:
-  src: '/preview_images/33-zen-friday.jpg'
+  src: '/src/content/preview_images/33-zen-friday.jpg'
   alt: 'a photo of concentric circles of gravel from a zen garden'
+socialImage: '/social_images/33-zen-friday.jpg'
 tags:
   [
     'podcast',

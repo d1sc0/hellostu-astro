@@ -5,8 +5,9 @@ slug: 1-seeking-inspiration-and-comfort
 pubDate: 2023-01-19
 description: 'The first in a weekly series of photographic self-portraits.'
 postImage:
-  src: '/preview_images/16-seeking-inspiration.jpg'
+  src: '/src/content/preview_images/16-seeking-inspiration.jpg'
   alt: 'stu sits in his office in front of a wall with guitars'
+socialImage: '/social_images/16-seeking-inspiration.jpg'
 tags: ['52weeks', 'photography', 'creativity', 'self']
 ---
 
