@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LatestPosts from '../components/LatestPosts.astro';
+import SocialLinks from '../components/SocialLinks.astro';
 const pageTitle = 'Hello Stu | Home';
 import { Image } from 'astro:assets';
 import Selfie from '/src/content/post_images/jcc-selfie.jpg';
@@ -33,8 +34,8 @@ import Selfie from '/src/content/post_images/jcc-selfie.jpg';
             <strong>
               This personal website functions as a space to share my thoughts
               and ideas, work on experiments and make it easier for people to
-              <a href="/#footer">find me</a> across other bits of the internet. You
-              can find out more about me <a href="/about">here</a>.</strong
+              <a href="/#socials">find me</a> across other bits of the internet.
+              You can find out more about me <a href="/about">here</a>.</strong
             >
           </p>
         </div>
@@ -42,4 +43,5 @@ import Selfie from '/src/content/post_images/jcc-selfie.jpg';
     </div>
   </section>
   <LatestPosts />
+  <SocialLinks />
 </BaseLayout>

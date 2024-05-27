@@ -103,7 +103,25 @@ section.tag-post-list article:nth-child(odd) {background-color: #70d6ffff;
 }
 
 section.post {margin-bottom: 6rem;}
-section.post h2.title {font-size: 2.2rem;}
+section.post h2.title {
+  font-size: 2.2rem;
+}
+
+section.footer {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+section.footer .social-icon {font-size: 1.5rem; padding-left: .8rem; padding-right: .8rem}
+
+section.social-links {margin-bottom: 4rem;}
+section.social-links h2 {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 3rem;
+    line-height: 3.5rem;
+    text-align: left;}
+
+section.social-links p, section.social-links li {font-size: 1.6rem;}
 
 strong {
   font-weight: 900;
@@ -122,6 +140,7 @@ h2 {
   padding-right: 2rem;
 }
 
+p.toplink {text-align: center;}
 
 /*  Tag styling
 --------------------------------------------------------------------------------------- */
